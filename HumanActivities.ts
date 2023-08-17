@@ -4,6 +4,6 @@ export class HumanActivities extends CommonActivities {
     super(name);
   }
   work(name: string) {
-    console.log(name, ' is working');
+    console.log(name, ' can work');
   }
 }
