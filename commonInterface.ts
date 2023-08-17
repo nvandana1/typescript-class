@@ -11,6 +11,7 @@ export interface Sleep {
 }
 
 export interface PersonalData{
+  creature:string;
   name:string;
   age:number;
   gender:string;
